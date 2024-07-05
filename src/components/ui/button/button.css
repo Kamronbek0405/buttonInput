@@ -1,0 +1,32 @@
+.btn {
+  padding: 10px 24px;
+  border: none;
+  background-color: transparent;
+  color: #ffff;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-left: 20px;
+  margin-top: 12px;
+}
+
+.primary {
+  background-color: rgb(64, 64, 230);
+}
+.primary:hover {
+  background-color: blue;
+}
+
+.secondary {
+  background-color: rgb(64, 230, 108);
+}
+.secondary:hover {
+  background-color: green;
+}
+
+.danger {
+  background-color: rgb(230, 72, 64);
+}
+.danger:hover {
+  background-color: rgb(91, 5, 5);
+}

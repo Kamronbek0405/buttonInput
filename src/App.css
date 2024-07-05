@@ -1,0 +1,7 @@
+.hero__container{
+    width: 100%;
+    height:60vh;
+    background-image: url("./pages/home/hero.img/Frame1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

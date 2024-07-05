@@ -1,0 +1,16 @@
+select{
+    width: 100px;
+    height: 30px;
+    border: 1px solid green;
+    margin-left: 20px;
+
+}
+
+.blue{
+    background-color: blue;
+    box-shadow: 0 0 15px 2px gray;
+}
+.red{
+    background-color: red;
+    box-shadow:  0 0 15px 2px gray;
+}
